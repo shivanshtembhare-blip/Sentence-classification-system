@@ -56,7 +56,10 @@ The class of the sentence is displayed
  
  2.Install these modules using pip install:Pandas, Numpy, Scikit learn, Matplotlib, Seaborn
  
- 3.Download the synthetic data 2000 from this repository
+ 3.Download the synthetic pop culture 2000 dataset from this repository
+
+ 4.Download the python code aiml project.py from the repository
  
  4.Change the line number 14 in the code to include the location of the synthetic data on your device
+ 
  5.Run the code
